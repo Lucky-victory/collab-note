@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@ably/spaces": "^0.2.0",
+    "ably": "^1.2.46",
+    "clsx": "^2.0.0",
+    "nanoid": "^5.0.2",
+    "random-words": "^2.0.0"
+  }
+}
