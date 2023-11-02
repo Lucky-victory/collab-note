@@ -55,7 +55,7 @@ space?.channel.publish('body',{body:evt.target.value})
       >
       <YourCursor self={self as Member | null} parentRef={liveCursors} />
       <MemberCursors />
-     <div className="flex gap-5 flex-1 h-full">
+     <div className="flex gap-5 flex-1 h-full z-10 relative">
       {/* <LiveCursors/> */}
 {/* <div className="flex flex-col  min-w-[250px] px-3 py-4">
 
